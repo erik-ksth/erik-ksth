@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik @ Kaung Sithu Hein</h1>
-<h3 align="center">A passionate CS student & frontend developer.</h3>
+<h3 align="center">A passionate CS student @ SJSU & frontend developer.</h3>
 
 - 🔭 I’m currently working on **MedVision and RecipeGenius**
 
