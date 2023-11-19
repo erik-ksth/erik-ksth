@@ -1,15 +1,18 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://drive.google.com/file/d/19SdXOEwY2u3bTwnG2Cz6JZS4zjO3xFDA/view?usp=sharing" align="center" /> -->
 </div>  
   
-
-### <div align="center">I'm Erik @ Kaung Sithu Hein, a CS student at SJSU and a Frontend Developer</div>  
-  
+<h1 align="center">Hi There! I'm Erik @ Kaung Sithu Hein</h1>
+<h3 align="center">A CS student at SJSU and a Frontend Developer</h3>
+<hr/>
 
 - 🔭 I’m currently working on [MedVision](https://github.com/erik-ksth/medVision1.0) and [RecipeGenius](https://github.com/erik-ksth/CS151-RecipeGenius)  
-  
 
-- 🌱 I’m currently learning NodeJs, TypeScript and Database  
+- 🌱 I’m currently learning **NodeJS, TypeScript and Database**
+
+- 📫 How to reach me **erikhein.ksth@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hwgCJaaYfPF5kCYu4aaTWt37AAt1EaF7/view?usp=sharing](https://drive.google.com/file/d/1hwgCJaaYfPF5kCYu4aaTWt37AAt1EaF7/view?usp=sharing)
   
 
 <br/>  
