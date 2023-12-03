@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **NodeJS, TypeScript and Database**
 
-- 📫 How to reach me **erikhein.ksth@gmail.com**
+- 📫 How to reach me at **erikhein.ksth@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hwgCJaaYfPF5kCYu4aaTWt37AAt1EaF7/view?usp=sharing](https://drive.google.com/file/d/1hwgCJaaYfPF5kCYu4aaTWt37AAt1EaF7/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hwgCJaaYfPF5kCYu4aaTWt37AAt1EaF7/view?usp=drive_link)
   
 
 <br/>  
