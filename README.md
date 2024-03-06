@@ -6,7 +6,7 @@
 <h3 align="center">A CS student at SJSU and a Frontend Developer</h3>
 <hr/>
 
-- 🔭 I’m currently working on [MedVision](https://github.com/erik-ksth/medVision1.0) and [RecipeGenius](https://github.com/erik-ksth/CS151-RecipeGenius)  
+- 🔭 I’m currently working on [MedVision](https://github.com/erik-ksth/medVision1.0)
 
 - 🌱 I’m currently learning **NodeJS, TypeScript and Database**
 
