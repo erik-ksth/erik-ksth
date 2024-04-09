@@ -12,7 +12,7 @@
 
 - 📫 How to reach me at **erikhein.ksth@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1hwgCJaaYfPF5kCYu4aaTWt37AAt1EaF7/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10xkKdZV9j43eV7n_Pu_kav7mn3sJamKf/view?usp=sharing)
   
 
 <br/>  
