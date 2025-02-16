@@ -6,13 +6,9 @@
 <h3 align="center">A CS student at SJSU and a Frontend Developer</h3>
 <hr/>
 
-- 🔭 I’m currently working on [MedVision](https://github.com/erik-ksth/medVision1.0)
-
-- 🌱 I’m currently learning **NodeJS, TypeScript and Database**
-
 - 📫 How to reach me at **erikhein.ksth@gmail.com**
 
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1jtu0STUua20yA8uWML7r-BK5xRXTGRSV/view?usp=sharing](https://drive.google.com/file/d/1BYJtx3Qe8qLwUUyI_J5hGrQkDeOo29qI/view?usp=sharing))
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1TA98m2xUrNCOs9TpiMgqy-P1rNzAKQfr/view?usp=sharing])
   
 
 <br/>  
