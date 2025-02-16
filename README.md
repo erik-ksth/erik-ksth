@@ -8,7 +8,7 @@
 
 - 📫 How to reach me at **erikhein.ksth@gmail.com**
 
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1TA98m2xUrNCOs9TpiMgqy-P1rNzAKQfr/view?usp=sharing])
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1TA98m2xUrNCOs9TpiMgqy-P1rNzAKQfr/view?usp=sharing)
   
 
 <br/>  
